@@ -10,7 +10,7 @@ First, set up an S3 bucket with the following folder structure to manage the dat
     * **`raw/`**: For incoming raw data files.
     * **`processed/`**: For cleaned and filtered data output by the Lambda function.
     * **`enriched/`**: For storing athena query results.
-
+![S3 Bucket](Screenshot 2026-04-21 220050.png)
 ---
 
 ## 2. IAM Roles and Permissions 🔐
